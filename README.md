@@ -19,6 +19,5 @@ Olá! Sou Layla Castro, uma jovem apaixonado por tecnologia e design, atualmente
 
 🔗 Conecte-se Comigo:
 - Estou aberto a conexões e troca de experiências. Vamos crescer juntosl!
-- https://www.linkedin.com/in/layla-cristina-silva-castro-b665502a8/
 
 Sinta-se à vontade para me contatar para discussões, oportunidades de colaboração ou apenas para compartilhar ideias.🚀✨
