@@ -1,16 +1,23 @@
-### Hi there 👋
+🌟 Entusiasta de Front-end com Paixão por UX | Estudante do Ensino Médio
 
-<!--
-**LaylaSCastro/LaylaSCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou Layla Castro, uma jovem apaixonado por tecnologia e design, atualmente explorando o vasto mundo do desenvolvimento Front-end. Aos 17 anos, estou ansioso para iniciar minha jornada profissional e contribuir para o universo da inovação.
 
-Here are some ideas to get you started:
+🚀 Áreas de Interesse:
+- Desenvolvimento Front-end: Comprometido em aprimorar minhas habilidades em HTML, CSS e JavaScript, e ansioso para mergulhar em frameworks modernos.
+- Experiência do Usuário (UX): Fascinada pela criação de interfaces intuitivas e experiências envolventes que maximizam a satisfação do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Projetos Pessoais:
+- Atualmente trabalhando em projetos pessoais para aprimorar minhas habilidades técnicas e criativas no desenvolvimento Web.
+  
+🌐 Networking e Aprendizado:
+- Aberto a oportunidades de networking, mentorias e colaborações em projetos que me permitam expandir meus conhecimentos na área.
+
+💬 Sobre Mim:
+- Sou apaixonado por resolver problemas e aprender constantemente.
+- Busco contribuir para a criação de soluções digitais inovadoras.
+- Determinado a transformar minha paixão por tecnologia em uma carreira promissora.
+
+🔗 Conecte-se Comigo:
+- Estou aberto a conexões e troca de experiências. Vamos crescer juntosl!
+
+Sinta-se à vontade para me contatar para discussões, oportunidades de colaboração ou apenas para compartilhar ideias.🚀✨
