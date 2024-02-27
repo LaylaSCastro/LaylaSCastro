@@ -1,5 +1,5 @@
 <h1>Olá, me chamo Layla Castro 👋🏻</h1>
-<div>
+<div align="center">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=LaylaSCastro&show_icons=true&theme=dracula"
