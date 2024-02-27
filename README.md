@@ -1,19 +1,9 @@
 <h1>Olá, me chamo Layla Castro 👋🏻</h1>
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=LaylaSCastro&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?usernameLaylaSCastro&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=LaylaSCastro&show_icons=true" />
-</picture>
+  <div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaylaSCastro&show_icons=true&theme=dracula" height="150" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaSCastro&layout=compact&theme=dracula)
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaSCastro&layout=compact&theme=dracula" height="150" alt="Top Langs"/>
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
