@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<h2>🌟 Entusiasta de Front-end com Paixão por UX | Estudante do Ensino Médio</h2>
+<h2>🌟 Entusiasta de Front-end com Paixão por UX | Estudante de Eng. de Software</h2>
 
 Olá! Sou Layla Castro, uma jovem apaixonado por tecnologia e design, atualmente explorando o vasto mundo do desenvolvimento Front-end. Aos 17 anos, estou ansioso para iniciar minha jornada profissional e contribuir para o universo da inovação.
 
