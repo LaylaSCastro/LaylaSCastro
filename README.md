@@ -1,4 +1,5 @@
-<h1>Olá, me chamo Layla Castro 👋🏻</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=CE93F7&vCenter=true&random=false&width=450&height=29&lines=Ol%C3%A1%2C+me+chamo+Layla+Castro+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+<h1></h1>
   <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=LaylaSCastro&show_icons=true&theme=dracula" height="150" />
 
