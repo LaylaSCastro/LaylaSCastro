@@ -13,7 +13,7 @@
 
 <h2>🌟 Entusiasta de Front-end com Paixão por UX | Estudante de Eng. de Software</h2>
 
-Olá! Sou Layla Castro, uma jovem apaixonado por tecnologia e design, atualmente explorando o vasto mundo do desenvolvimento Front-end. Aos 17 anos, estou ansioso para iniciar minha jornada profissional e contribuir para o universo da inovação.
+Olá! Sou Layla Castro, uma jovem apaixonado por tecnologia e design, atualmente explorando o vasto mundo do desenvolvimento Front-end. Aos 18 anos, estou ansioso para iniciar minha jornada profissional e contribuir para o universo da inovação.
 
 🚀 Áreas de Interesse:
 - Desenvolvimento Front-end: Comprometido em aprimorar minhas habilidades em HTML, CSS e JavaScript, e ansioso para mergulhar em frameworks modernos.
